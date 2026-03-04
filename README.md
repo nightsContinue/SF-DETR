@@ -1,4 +1,4 @@
-# FE-DETR:A multi scale feature enhancement DETR for small traffic sign detection and recognition
+# SF-DETR:A Joint Spatial-Frequency Augmented Detection Transformer for Traffic Sign Recognition
 Official FE-DETR(based on ultralytics version rt-detr )
 
 
